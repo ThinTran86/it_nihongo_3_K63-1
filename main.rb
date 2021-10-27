@@ -4,3 +4,7 @@ def introduce(age)
 end
 #引数を渡してメソッドを呼び出す
 introduce(21)
+
+def show
+  puts "私はConanです"
+end
